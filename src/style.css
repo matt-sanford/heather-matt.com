@@ -1,0 +1,15 @@
+:root {
+  --text: 39, 41, 41;
+  --accentText: 224, 191, 184;
+  --background: 240, 255, 255;
+}
+
+@font-face {
+  font-family: WeddingTitle;
+  src: url(assets/Shrikhand-Regular.otf);
+}
+
+@font-face {
+  font-family: WeddingSubtitle;
+  src: url(assets/Lora.ttf);
+}
